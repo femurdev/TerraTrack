@@ -1,0 +1,4 @@
+Item,Quantity,Part Number,Description,Manufacturer,Vendor,Unit Price (USD),Total Price (USD),Notes,Product Link
+1,2,SS2421-5041,"Stepper Motor, Bipolar, 1.8°, 4.5V, 1.2A, 42mm Frame",Sanyo Denki,Digi-Key,45.74,91.48,Primary stepper motors,https://www.digikey.com/en/products/detail/sanyo-denki-sanmotion-products/SS2421-5041/13533469
+2,2,3768,"DRV8434S SPI Stepper Motor Driver Carrier, 2A Max Current Limit",Pololu Robotics & Electronics,Pololu,13.95,27.9,Motor driver boards,https://www.pololu.com/product/3768
+,,,Total Estimated Cost (USD),,,,119.38,,
