@@ -1,9 +1,10 @@
 # 🚀 TerraTrack
-
+```
 """
 AI-powered robotics project inspired by the game TerraTech.
 Built for learning, experimentation, and competition.
 """
+```
 
 ![onshapesketch.png](https://github.com/femurdev/TerraTrack/blob/main/gallary/onshapesketch.png?raw=true)
 
