@@ -10,7 +10,7 @@ This is my journal of the design and building process of **TerraTrack**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/485).
 
 
-## 10/13/2025 - Prototyping, routing, discovering, and lighting things fire.  
+## 10/13/2025 8 PM - Prototyping, routing, discovering, and lighting things fire.  
 
 This is to catch everyone up to the current state of things. I have mark one completed at this point but much to my dismay, it does not work. I have managed to burn it and can not afford any more components for the time being. 
 ## Here's a quick recap of what happened:
@@ -54,4 +54,37 @@ Stay tuned for part 2 of the catch up, we're only 4 days (only about 23 hours of
 ![finalv2.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--8b69cf2ed242e696763c0d22b8d1d48158aaa87a/finalv2.jpg)
 
   
+
+## 10/13/2025 9 PM - Solving problems and innovation (v3 & v4 of inital design)  
+
+I know its only been an hour and I'm claiming a day, but I'm just recounting my progress. We're off to the races. I've got a basic setup and body, but there's something nagging at me, my bot, and my soul: getting it working.
+
+I constructed the bot completely, top to bottom, complete with hot glue connections that would have outlived the sun. But it wasn't to be. Like all engineering endeavors, there was a laundry list of glaring issues, many of which I honestly thought I could ignore. Here, I think I'll do a picture by picture list of improvements that I made to my design:
+
+### The Axels.
+They look so thin and have just 3 mm of PLA lego axel extrusion to hold them upright. Of course, they were going to snap. I added in some more joints and another 2 bearings onto the parts list, one for each side. Took about 4 hours to decide how to fix this and tear the bearings out of an old skateboard.
+![Screenshot 2025-10-13 at 9.15.21 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEzNCwicHVyIjoiYmxvYl9pZCJ9fQ==--e94ae52f1d64d5fe4b02e869dcf1e9ba1eed0f52/Screenshot%202025-10-13%20at%209.15.21%E2%80%AFPM.png)
+
+### The Gearbox.
+I dropped it on the floor and everything came out. Furthermore, I added a cover. Now, if it breaks, I won't know immediately (bad) and have the peace of mind that I haven't lost parts. (good) a couple of other things include the insane triple bearing design to try to take as much wight and distribute it as evenly as possible. (This is, and is still IMO valid madness) Each assembly took an hour and I did this a lot as I made changes.
+![Screenshot 2025-10-13 at 9.15.03 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEzMywicHVyIjoiYmxvYl9pZCJ9fQ==--8985d672864fac0d97f18e1149e35b02836ee922/Screenshot%202025-10-13%20at%209.15.03%E2%80%AFPM.png)
+
+### The Battery Pack.
+The battery pack that was initially made was too small for the pack once I actually added the batteries. There was no real other problem. I also added a cover so that way they can't fall out now. This took a bit to dseign.
+![Screenshot 2025-10-13 at 9.15.48 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEzNSwicHVyIjoiYmxvYl9pZCJ9fQ==--ca8a892cc59fc47ef8fd34cce2827b5efe9b97ce/Screenshot%202025-10-13%20at%209.15.48%E2%80%AFPM.png)
+
+### The Butt.
+Before, I didn't have any way for the car to drag itself along. This butt component allows me to add a Lego wheel and a few bearings to let the car glide seamlessly over the floor. I used layer designing for this, and it worked to an absolute charm, except for the fact that it was completely new to me and therefore took about 3 hours to perfect once I settled on an idea.
+![Screenshot 2025-10-13 at 9.17.05 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEzNiwicHVyIjoiYmxvYl9pZCJ9fQ==--dc4cae53aba011ebaaffc77859b31968ff1cae2f/Screenshot%202025-10-13%20at%209.17.05%E2%80%AFPM.png)
+
+### Fabrication.
+3D printing once again took ages and soldering it a pain as always. I got the circuit back together, transferred bodies and put enough glue to make the gods envy it. To clear up any confusion between v3 and v4, v3 was when I added the bearing and nothing else. 4v came just after and was much more intense of a rebuild so that is what is here.
+
+### Gearboxes are impossible!
+Sorry for having to say this again, they just take _SEVERAL HOURS_ to assemble each and every time. I dislike this very much.
+
+### OMG ITS PROGRAMMING, EVERYBODY RUN!!!
+I normally love programming, but there's something about this particular project that just made it impossible. I don't know what was about these particular motor drivers, but I can't get them to even budge. I found a sneaky pin that I needed jumpers for, but even that didn't solve my problems. Sorry, no complete assembly because I dismantled it and want to save the recreation of it for my next post. This took the **majority of my time this week**, even during school, where I wrote potential interactions that I only hoped would work.
+
+Well, that was awful. I'd just sunk a whole week and a half into this thing, and I'm stumped. No Fires this time (1 nature - 1 me)  
 
