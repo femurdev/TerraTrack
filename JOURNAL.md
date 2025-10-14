@@ -55,7 +55,7 @@ Stay tuned for part 2 of the catch up, we're only 4 days (only about 23 hours of
 
   
 
-## 10/13/2025 9 PM - Solving problems and innovation (v3 & v4 of inital design)  
+## 10/13/2025 9:23 PM - Solving problems and innovation (v3 & v4 of inital design)  
 
 I know its only been an hour and I'm claiming a day, but I'm just recounting my progress. We're off to the races. I've got a basic setup and body, but there's something nagging at me, my bot, and my soul: getting it working.
 
@@ -87,4 +87,42 @@ Sorry for having to say this again, they just take _SEVERAL HOURS_ to assemble e
 I normally love programming, but there's something about this particular project that just made it impossible. I don't know what was about these particular motor drivers, but I can't get them to even budge. I found a sneaky pin that I needed jumpers for, but even that didn't solve my problems. Sorry, no complete assembly because I dismantled it and want to save the recreation of it for my next post. This took the **majority of my time this week**, even during school, where I wrote potential interactions that I only hoped would work.
 
 Well, that was awful. I'd just sunk a whole week and a half into this thing, and I'm stumped. No Fires this time (1 nature - 1 me)  
+
+## 10/13/2025 9:47 PM - Failure, Fatigue, and Fire  
+
+This is the final update to get you up to speed on this project.
+_**Finally**_
+But it isn't over.
+
+### The changes:
+The whole thing is dismantled. Seriously. Let me elaborate.
+
+When I last left off on this story, I was still discussing the fact that I was stuck on programming this sucker. Well, after another two days when I told myself, just one more try, just one more try, MAGIC. The motors suddenly locked up.
+
+### What this means.
+This means that I have successfully told my motor controllers to turn on.
+_Big whoop!_
+Seriously, this is what I couldn't get my motors to do for the past two weeks at this point. 
+Now, they were awaiting commands, commands that were no longer hours to debug why it wasn't connecting, just commands that would work now that the communication was working.
+So I told them to spin in one circle while I held the bot in the air. They did that. I put it on the gound.
+_*crickets*_
+I heard nothing. The motors tuned out to either be too weak to actually tun the wheels or something much worse is happening (that to this that I don't know).
+I used much of my remaining time that day trying to get it to move.
+The next day, I continued, I brought it home, I did everything.
+_It. Wouldn't. Budge._
+I read online that adding some code could make them stronger:
+```cpp
+  driver1.setup(Serial1, SERIAL_BAUD, TMC2209::SERIAL_ADDRESS_0, UART_PIN, UART_PIN);
+  driver1.setRunCurrent(100);
+  driver1.setHoldCurrent(0);
+  driver1.setMicrostepsPerStep(1);       // full step for max torque
+  driver1.disableStealthChop();          // spreadCycle = stronger torque
+  driver1.enable();
+```
+Big mistake. The thing started smoking as soon as I tuned it on, slowly at first, then pluming outwards. The robot had lost the magic smoke. We all know what that magic smoke means. Someone, on board, has died. Most of the time, only the factory can put said magic smoke back inside the components, and I know this truth. Small issue: the components that burned out were the only steppers I had, which cost 60 dollars before tariffs but are now 120 dollars. 
+I have a plan now to avoid this insane bill, but I still need the funding for this project. I have 2 motors that cost 40 dollars each and 2 drivers that sum to 40 dollars, about 120 in total. The new chassis requires a new roll of filament to make. Please help
+I'll leave you with this recreation:
+![recreation.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjE0MywicHVyIjoiYmxvYl9pZCJ9fQ==--127a0d9994ebd72d4a93cb916e200d3cc7e1e544/recreation.jpeg)
+
+  
 
