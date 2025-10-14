@@ -5,7 +5,8 @@ AI-powered robotics project inspired by the game TerraTech.
 Built for learning, experimentation, and competition.
 """
 
-![onshapesketch.png]([https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--8b69cf2ed242e696763c0d22b8d1d48158aaa87a/finalv2.jpg](https://github.com/femurdev/TerraTrack/blob/main/gallary/onshapesketch.png?raw=true))
+![onshapesketch.png](https://github.com/femurdev/TerraTrack/blob/main/gallary/onshapesketch.png?raw=true)
+
 
 
 ## 🧠 Overview
