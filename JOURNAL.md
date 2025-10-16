@@ -123,3 +123,8 @@ The battery lid fits perfectly now. Designed a “butt” section to glide along
 ![Screenshot 2025-10-13 at 9.17.05 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEzNiwicHVyIjoiYmxvYl9pZCJ9fQ==--dc4cae53aba011ebaaffc77859b31968ff1cae2f/Screenshot%202025-10-13%20at%209.17.05%E2%80%AFPM.png)
   
 
+## 10/16/2025 9:12 AM - Soldering & Circuits   
+
+Hours of solder fumes later, my motor drivers and ESP32 are finally wired. Organization? Nope. Nonexistent. But it powers up! I had to scavenge an old switch that looks “big enough” for 3A off of a old motherboard. It has been working. Feels like cobbling together a golem from scraps.  
+![finalv2.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--8b69cf2ed242e696763c0d22b8d1d48158aaa87a/finalv2.jpg)  
+
