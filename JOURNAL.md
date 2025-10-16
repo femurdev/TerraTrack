@@ -116,3 +116,10 @@ The axels snapped again. Solution: bearings — many of them. Cannibalized an ol
 Dropped the gearbox once and everything fell out. As I said before, there's a lot of components. Added a protective cover so I can *pretend* it’s fine next time. Triple-bearing layout now spreads load better. Takes an hour each build—painful, but satisfying engineering chaos.
 ![Screenshot 2025-10-13 at 9.15.03 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEzMywicHVyIjoiYmxvYl9pZCJ9fQ==--8985d672864fac0d97f18e1149e35b02836ee922/Screenshot%202025-10-13%20at%209.15.03%E2%80%AFPM.png)  
 
+## 10/16/2025 9:07 AM - Battery Cover and Chassis Butt    
+
+The battery lid fits perfectly now. Designed a “butt” section to glide along the floor smooth — borrowed a Lego wheel and bearings. Layered printing worked wonders. Spent almost another three hours fine-tuning and balancing. Feels almost like a professional part.
+![Screenshot 2025-10-13 at 9.15.48 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEzNSwicHVyIjoiYmxvYl9pZCJ9fQ==--ca8a892cc59fc47ef8fd34cce2827b5efe9b97ce/Screenshot%202025-10-13%20at%209.15.48%E2%80%AFPM.png)  
+![Screenshot 2025-10-13 at 9.17.05 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEzNiwicHVyIjoiYmxvYl9pZCJ9fQ==--dc4cae53aba011ebaaffc77859b31968ff1cae2f/Screenshot%202025-10-13%20at%209.17.05%E2%80%AFPM.png)
+  
+
