@@ -105,3 +105,9 @@ The Da Vinci Jr. printer is cursed. Four breakdowns in six hours. Tried everythi
 ![IMG_3683.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEyMywicHVyIjoiYmxvYl9pZCJ9fQ==--480caa27d4988a4a23c7533696b3ccac98b95e12/IMG_3683.jpeg)
   
 
+## 10/16/2025 9:02 AM - Bearings & Reinforcements  
+
+The axels snapped again. Solution: bearings — many of them. Cannibalized an old skateboard for spares. Added dual-bearing supports and extra joints. Feels sturdy now. Printed overnight and started reassembly the next day. Hardware surgery successful.  
+![Screenshot 2025-10-13 at 9.15.21 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEzNCwicHVyIjoiYmxvYl9pZCJ9fQ==--e94ae52f1d64d5fe4b02e869dcf1e9ba1eed0f52/Screenshot%202025-10-13%20at%209.15.21%E2%80%AFPM.png)
+  
+
