@@ -23,10 +23,12 @@ We're off to the races. I've got a basic setup and body, but there's something n
 
 ## 10/16/2025 7:18 AM - Failure, Fatigue, and Fire  
 
-# Old Recount
+## Old Recount
 This is the final update to get you up to speed on this project. _**Finally**_ But it isn't over. 
-### The changes: The whole thing is dismantled. Seriously. Let me elaborate. When I last left off on this story, I was still discussing the fact that I was stuck on programming this sucker. Well, after another two days when I told myself, just one more try, just one more try, MAGIC. The motors suddenly locked up. 
-### What this means. This means that I have successfully told my motor controllers to turn on. _Big whoop!_ 
+### The changes.
+The whole thing is dismantled. Seriously. Let me elaborate. When I last left off on this story, I was still discussing the fact that I was stuck on programming this sucker. Well, after another two days when I told myself, just one more try, just one more try, MAGIC. The motors suddenly locked up. 
+### What this means. 
+This means that I have successfully told my motor controllers to turn on. _Big whoop!_ 
 Seriously, this is what I couldn't get my motors to do for the past two weeks at this point. Now, they were awaiting commands, commands that were no longer hours to debug why it wasn't connecting, just commands that would work now that the communication was working. So I told them to spin in one circle while I held the bot in the air. They did that. I put it on the gound. 
 _*crickets*_ 
 I heard nothing. The motors tuned out to either be too weak to actually tun the wheels or something much worse is happening (that to this that I don't know). I used much of my remaining time that day trying to get it to move. The next day, I continued, I brought it home, I did everything. 
@@ -40,6 +42,7 @@ I read online that adding some code could make them stronger:
   driver1.disableStealthChop();          // spreadCycle = stronger torque
   driver1.enable();
 ```
-**Big mistake.** The thing started smoking as soon as I tuned it on, slowly at first, then pluming outwards. The robot had lost the magic smoke. We all know what that magic smoke means. Someone, on board, has died. Most of the time, only the factory can put said magic smoke back inside the components, and I know this truth. 
+### Big mistake.
+The thing started smoking as soon as I tuned it on, slowly at first, then pluming outwards. The robot had lost the magic smoke. We all know what that magic smoke means. Someone, on board, has died. Most of the time, only the factory can put said magic smoke back inside the components, and I know this truth. 
 _Small issue:_ the components that burned out were the only steppers I had, which cost 60 dollars before tariffs but are now 120 dollars. I have a plan now to avoid this insane bill, but I still need the funding for this project. I have 2 motors that cost 40 dollars each and 2 drivers that sum to 40 dollars, about 120 in total. The new chassis requires a new roll of filament to make. Please help I'll leave you with this recreation: ![recreation.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjE0MywicHVyIjoiYmxvYl9pZCJ9fQ==--127a0d9994ebd72d4a93cb916e200d3cc7e1e544/recreation.jpeg)  
 
