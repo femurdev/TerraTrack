@@ -111,3 +111,8 @@ The axels snapped again. Solution: bearings — many of them. Cannibalized an ol
 ![Screenshot 2025-10-13 at 9.15.21 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEzNCwicHVyIjoiYmxvYl9pZCJ9fQ==--e94ae52f1d64d5fe4b02e869dcf1e9ba1eed0f52/Screenshot%202025-10-13%20at%209.15.21%E2%80%AFPM.png)
   
 
+## 10/16/2025 9:02 AM - Gearbox v2 & Covers    
+
+Dropped the gearbox once and everything fell out. As I said before, there's a lot of components. Added a protective cover so I can *pretend* it’s fine next time. Triple-bearing layout now spreads load better. Takes an hour each build—painful, but satisfying engineering chaos.
+![Screenshot 2025-10-13 at 9.15.03 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEzMywicHVyIjoiYmxvYl9pZCJ9fQ==--8985d672864fac0d97f18e1149e35b02836ee922/Screenshot%202025-10-13%20at%209.15.03%E2%80%AFPM.png)  
+
