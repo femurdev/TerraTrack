@@ -93,9 +93,15 @@ Spent two hours fighting with offsets in the gearbox model. Finally got gears to
 ![Screenshot 2025-10-13 at 6.09.27 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEwMywicHVyIjoiYmxvYl9pZCJ9fQ==--5ce81054dadda8320fc72e035bf6d243b317185d/Screenshot%202025-10-13%20at%206.09.27%E2%80%AFPM.png)  
 ![hardware.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEyMiwicHVyIjoiYmxvYl9pZCJ9fQ==--0b4a1ccde9e5e79489c5a384a6013749bf9a652e/hardware.jpeg)  
 
-## 10/16/2025 9 AM - Battery v1 and Blender Blunders  
+## 10/16/2025 9:00 AM - Battery v1 and Blender Blunders  
 
 Built my battery capsule in Blender, now something I see as a mistake. Boolean operations broke half the model. Still printed it. Fits the cells, looks decent. I left the batteries inside while working on other parts… sparks, panic, and a strong lesson in switches.  
 ![battery1.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEyOCwicHVyIjoiYmxvYl9pZCJ9fQ==--9344d516bb8165549ce07e4c68c8ab4fa47640db/battery1.jpeg)  
 ![battery2.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEyNywicHVyIjoiYmxvYl9pZCJ9fQ==--1da79a0cfe1e78294a5a38b3602fa22b90c7cde6/battery2.jpeg)  
+
+## 10/16/2025 9:01 AM - Printer v. Me  
+
+The Da Vinci Jr. printer is cursed. Four breakdowns in six hours. Tried everything: nozzle swaps, glue sticks, prayers. Eventually ran to the library’s Bambu Labs which worked instantly. Re-printed axels; smoother and stronger. Confidence restored (for now).  
+![IMG_3683.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEyMywicHVyIjoiYmxvYl9pZCJ9fQ==--480caa27d4988a4a23c7533696b3ccac98b95e12/IMG_3683.jpeg)
+  
 
