@@ -133,9 +133,3 @@ Hours of solder fumes later, my motor drivers and ESP32 are finally wired. Organ
 I love code, but not today. UART refused to cooperate. Pins, baud rates, drivers—nothing worked. After countless tests, motors finally twitched once, just to mock me. Still, progress is progress is progress. No fires today either (luckily.) (1 nature – 1 me).  
 ![Screenshot 2025-10-13 at 9.15.21 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEzNCwicHVyIjoiYmxvYl9pZCJ9fQ==--e94ae52f1d64d5fe4b02e869dcf1e9ba1eed0f52/Screenshot%202025-10-13%20at%209.15.21%E2%80%AFPM.png)  
 
-## 10/16/2025 9:14 AM - Smoke and Resolve    
-
-One final push: the code worked! Motors spun —in air. On ground? Nothing. Boosted current for torque — instant smoke. Farewell to my steppers and 60 bucks. Rebuilding plan underway: stronger chassis, better cooling, new funding hunt. v5 in now incoming.  
-![recreation.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjE0MywicHVyIjoiYmxvYl9pZCJ9fQ==--127a0d9994ebd72d4a93cb916e200d3cc7e1e544/recreation.jpeg)
-  
-
