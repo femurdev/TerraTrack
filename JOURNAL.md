@@ -87,12 +87,6 @@ Made my first axel v1 in On shape. Still transitioning from blender. It took an 
 ![Screenshot 2025-10-13 at 6.09.04 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEwMiwicHVyIjoiYmxvYl9pZCJ9fQ==--eb67e40276f8980f2d921a971508730a8ad00375/Screenshot%202025-10-13%20at%206.09.04%E2%80%AFPM.png)
   
 
-## 10/16/2025 8:58 AM - Gearbox v1 Build  
-
-Spent two hours fighting with offsets in the gearbox model. Finally got gears to mesh—sort of. My hardware table looks like a scrapyard now. Each print gets closer to functional, and I’m learning why “tolerances” is every engineer’s favorite curse word.  
-![Screenshot 2025-10-13 at 6.09.27 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEwMywicHVyIjoiYmxvYl9pZCJ9fQ==--5ce81054dadda8320fc72e035bf6d243b317185d/Screenshot%202025-10-13%20at%206.09.27%E2%80%AFPM.png)  
-![hardware.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEyMiwicHVyIjoiYmxvYl9pZCJ9fQ==--0b4a1ccde9e5e79489c5a384a6013749bf9a652e/hardware.jpeg)  
-
 ## 10/16/2025 9 AM - Battery v1 and Blender Blunders  
 
 Built my battery capsule in Blender, now something I see as a mistake. Boolean operations broke half the model. Still printed it. Fits the cells, looks decent. I left the batteries inside while working on other parts… sparks, panic, and a strong lesson in switches.  
