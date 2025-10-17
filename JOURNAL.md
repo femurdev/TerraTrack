@@ -128,8 +128,3 @@ The battery lid fits perfectly now. Designed a “butt” section to glide along
 Hours of solder fumes later, my motor drivers and ESP32 are finally wired. Organization? Nope. Nonexistent. But it powers up! I had to scavenge an old switch that looks “big enough” for 3A off of a old motherboard. It has been working. Feels like cobbling together a golem from scraps.  
 ![finalv2.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--8b69cf2ed242e696763c0d22b8d1d48158aaa87a/finalv2.jpg)  
 
-## 10/16/2025 9:14 AM - Programming Despair    
-
-I love code, but not today. UART refused to cooperate. Pins, baud rates, drivers—nothing worked. After countless tests, motors finally twitched once, just to mock me. Still, progress is progress is progress. No fires today either (luckily.) (1 nature – 1 me).  
-![Screenshot 2025-10-13 at 9.15.21 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEzNCwicHVyIjoiYmxvYl9pZCJ9fQ==--e94ae52f1d64d5fe4b02e869dcf1e9ba1eed0f52/Screenshot%202025-10-13%20at%209.15.21%E2%80%AFPM.png)  
-
