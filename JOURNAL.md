@@ -81,9 +81,3 @@ TerraTrack began as a dream to make terrain-tracking affordable. Spent hours ske
 I opened Onshape, immediately broke every constraint, and somehow built a cube spaceship. Three painful hours later, Motor Connection v1 was born. Rough edges, uneven geometry, but it’s a start. Learning feels like debugging my own brain at this point.  
 ![Screenshot 2025-10-13 at 6.07.49 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--24c9de1d54a2a27b6ffd93e1f533da183c0c86bc/Screenshot%202025-10-13%20at%206.07.49%E2%80%AFPM.png)  
 
-## 10/16/2025 8:57 AM - Axels, Alignment, and Anger    
-
-Made my first axel v1 in On shape. Still transitioning from blender. It took an hour and three failed sketches to realize I mirrored the wrong plane. The design looks okay but it’s fragile. Still, watching a 3D model finally behave is deeply satisfying. Momentum is now building.  
-![Screenshot 2025-10-13 at 6.09.04 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEwMiwicHVyIjoiYmxvYl9pZCJ9fQ==--eb67e40276f8980f2d921a971508730a8ad00375/Screenshot%202025-10-13%20at%206.09.04%E2%80%AFPM.png)
-  
-
