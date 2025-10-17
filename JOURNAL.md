@@ -71,8 +71,3 @@ I read online that adding some code could make them stronger:
 The thing started smoking as soon as I tuned it on, slowly at first, then pluming outwards. The robot had lost the magic smoke. We all know what that magic smoke means. Someone, on board, has died. Most of the time, only the factory can put said magic smoke back inside the components, and I know this truth. 
 _Small issue:_ the components that burned out were the only steppers I had, which cost 60 dollars before tariffs but are now 120 dollars. I have a plan now to avoid this insane bill, but I still need the funding for this project. I have 2 motors that cost 40 dollars each and 2 drivers that sum to 40 dollars, about 120 in total. The new chassis requires a new roll of filament to make. Please help I'll leave you with this recreation: ![recreation.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjE0MywicHVyIjoiYmxvYl9pZCJ9fQ==--127a0d9994ebd72d4a93cb916e200d3cc7e1e544/recreation.jpeg)  
 
-## 10/16/2025 8 AM - The Idea Sparks  
-
-TerraTrack began as a dream to make terrain-tracking affordable. Spent hours sketching, plotting motor ratios, and failing at physics. Ordered some parts off of a small "grant" from my parents that may or may not fit. Everything’s theoretical right now—but I’m hooked already. The first sketches look wild.  
-![Screenshot 2025-10-13 at 8.47.01 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEyOSwicHVyIjoiYmxvYl9pZCJ9fQ==--ce863ee148fe07ac4a956e25b9c3699ae491ba2a/Screenshot%202025-10-13%20at%208.47.01%E2%80%AFPM.png)  
-
