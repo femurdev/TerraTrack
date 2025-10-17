@@ -87,9 +87,3 @@ Made my first axel v1 in On shape. Still transitioning from blender. It took an 
 ![Screenshot 2025-10-13 at 6.09.04 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEwMiwicHVyIjoiYmxvYl9pZCJ9fQ==--eb67e40276f8980f2d921a971508730a8ad00375/Screenshot%202025-10-13%20at%206.09.04%E2%80%AFPM.png)
   
 
-## 10/16/2025 9 AM - Battery v1 and Blender Blunders  
-
-Built my battery capsule in Blender, now something I see as a mistake. Boolean operations broke half the model. Still printed it. Fits the cells, looks decent. I left the batteries inside while working on other parts… sparks, panic, and a strong lesson in switches.  
-![battery1.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEyOCwicHVyIjoiYmxvYl9pZCJ9fQ==--9344d516bb8165549ce07e4c68c8ab4fa47640db/battery1.jpeg)  
-![battery2.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEyNywicHVyIjoiYmxvYl9pZCJ9fQ==--1da79a0cfe1e78294a5a38b3602fa22b90c7cde6/battery2.jpeg)  
-
