@@ -146,3 +146,8 @@ They look so thin and have just 3 mm of PLA Lego axel extrusion to hold them upr
 
 I dropped it on the floor and everything came out. Thus, I added a cover. Now, if it breaks, I won't know immediately (bad) and have the peace of mind that I haven't lost parts (good.) A couple of other things include the insane triple bearing design to try to take as much wight and distribute it as evenly as possible. (This is, and is still IMO valid madness) Each assembly took an hour and I did this a lot as I made changes. ![Screenshot 2025-10-13 at 9.15.03 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEzMywicHVyIjoiYmxvYl9pZCJ9fQ==--8985d672864fac0d97f18e1149e35b02836ee922/Screenshot%202025-10-13%20at%209.15.03%E2%80%AFPM.png)   
 
+## 10/18/2025 1:24 PM - Innovation - The Battery Pack.  
+
+The battery pack that was initially made was too small for the pack once I actually added the batteries. There was no real other problem. I also added a cover so that way they can't fall out now. This took a bit to quite a bit of time in order to design. ![Screenshot 2025-10-13 at 9.15.48 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEzNSwicHVyIjoiYmxvYl9pZCJ9fQ==--ca8a892cc59fc47ef8fd34cce2827b5efe9b97ce/Screenshot%202025-10-13%20at%209.15.48%E2%80%AFPM.png) 
+  
+
