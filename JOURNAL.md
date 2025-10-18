@@ -151,3 +151,7 @@ I dropped it on the floor and everything came out. Thus, I added a cover. Now, i
 The battery pack that was initially made was too small for the pack once I actually added the batteries. There was no real other problem. I also added a cover so that way they can't fall out now. This took a bit to quite a bit of time in order to design. ![Screenshot 2025-10-13 at 9.15.48 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEzNSwicHVyIjoiYmxvYl9pZCJ9fQ==--ca8a892cc59fc47ef8fd34cce2827b5efe9b97ce/Screenshot%202025-10-13%20at%209.15.48%E2%80%AFPM.png) 
   
 
+## 10/18/2025 1:24 PM - Innovation - The Butt. - 3 hr  
+
+Before, I didn't have any way for the car to drag itself along. This butt component allows me to add a Lego wheel and a few bearings to let the car glide seamlessly over the floor. I used layer designing for this, and it worked to an absolute charm, except for the fact that it was completely new to me and therefore took about 3 hours to perfect once I settled on an idea. ![Screenshot 2025-10-13 at 9.17.05 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEzNiwicHVyIjoiYmxvYl9pZCJ9fQ==--dc4cae53aba011ebaaffc77859b31968ff1cae2f/Screenshot%202025-10-13%20at%209.17.05%E2%80%AFPM.png)  
+
