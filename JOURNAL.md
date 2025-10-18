@@ -142,3 +142,7 @@ We're off to the races. I've got a basic setup and body, but there's something n
 ### The Axels.   
 They look so thin and have just 3 mm of PLA Lego axel extrusion to hold them upright. Of course, they were going to snap. I added in some more joints and another 2 bearings onto the parts list, one for each side. Took about 4 hours to decide how to fix this and tear the bearings out of an old skateboard. ![Screenshot 2025-10-13 at 9.15.21 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEzNCwicHVyIjoiYmxvYl9pZCJ9fQ==--e94ae52f1d64d5fe4b02e869dcf1e9ba1eed0f52/Screenshot%202025-10-13%20at%209.15.21%E2%80%AFPM.png)   
 
+## 10/18/2025 1:23 PM - Innovation - The Gearbox.  
+
+I dropped it on the floor and everything came out. Thus, I added a cover. Now, if it breaks, I won't know immediately (bad) and have the peace of mind that I haven't lost parts (good.) A couple of other things include the insane triple bearing design to try to take as much wight and distribute it as evenly as possible. (This is, and is still IMO valid madness) Each assembly took an hour and I did this a lot as I made changes. ![Screenshot 2025-10-13 at 9.15.03 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEzMywicHVyIjoiYmxvYl9pZCJ9fQ==--8985d672864fac0d97f18e1149e35b02836ee922/Screenshot%202025-10-13%20at%209.15.03%E2%80%AFPM.png)   
+
