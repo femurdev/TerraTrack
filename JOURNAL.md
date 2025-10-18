@@ -134,3 +134,11 @@ Took an hour or so of changing nozzles and filament \+ sticking. Came back and g
 _Sparks!_ _Smoke!_ _Panic!_.   
 I don't have a photo of this but imagine ElectroBoom strumming his electric guitar. I discovered that a talent of mine that made this fire followed me here, complete idiocy. I had left the barreries in the capsule while I continued making other parts of the setup. Luckily, nothing was destroyed, but this made me realize the need for a switch. Jump to an hour later, where I am found dismantling an old electronic board from I don't even know what. It had a toggle switch rated for 3 amps, good enough for me. Here's a recreation of the state of the bot at the end of this. Sorry about this taking so much time, I'm juggling cleaning and teaching my brothers about electronics as I build this. Its part of a larger team event so there are also numerous hours of discussion not mentioned here. ![finalv2.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--8b69cf2ed242e696763c0d22b8d1d48158aaa87a/finalv2.jpg)    
 
+## 10/18/2025 1:23 PM - Innovation - The Axel  
+
+### This is a recount of what happened.
+
+We're off to the races. I've got a basic setup and body, but there's something nagging at me, my bot, and my soul: getting it moving. I constructed the bot completely, top to bottom, complete with hot glue connections that would have outlived the sun. But it wasn't to be. Like all engineering endeavors, there was a laundry list of glaring issues, many of which I honestly thought I could ignore. Here, I think I'll do a picture by picture list of improvements that I made to my design (Hackclub Bluprint wants me to spit these up, so this post only includes the first one):   
+### The Axels.   
+They look so thin and have just 3 mm of PLA Lego axel extrusion to hold them upright. Of course, they were going to snap. I added in some more joints and another 2 bearings onto the parts list, one for each side. Took about 4 hours to decide how to fix this and tear the bearings out of an old skateboard. ![Screenshot 2025-10-13 at 9.15.21 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEzNCwicHVyIjoiYmxvYl9pZCJ9fQ==--e94ae52f1d64d5fe4b02e869dcf1e9ba1eed0f52/Screenshot%202025-10-13%20at%209.15.21%E2%80%AFPM.png)   
+
