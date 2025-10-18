@@ -128,3 +128,9 @@ And mine:
 ![IMG_3698.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzAyMiwicHVyIjoiYmxvYl9pZCJ9fQ==--d19f43d6fa24be99fa415790acf7da83a79859b6/IMG_3698.jpeg)
   
 
+## 10/18/2025 1:22 PM - Fabrication & Fire  
+
+Took an hour or so of changing nozzles and filament \+ sticking. Came back and got the parts later. There were a few problems with this first batch. The most blaring is that the Axels repeatedly snapped. It was at some time at the 20-ish hour mark of this project when I started soldering my motor drivers and ESP32. This in of itself took two hours to find, set up, dismantle, and store. I was spending the next hour gluing the parts together when suddenly,   
+_Sparks!_ _Smoke!_ _Panic!_.   
+I don't have a photo of this but imagine ElectroBoom strumming his electric guitar. I discovered that a talent of mine that made this fire followed me here, complete idiocy. I had left the barreries in the capsule while I continued making other parts of the setup. Luckily, nothing was destroyed, but this made me realize the need for a switch. Jump to an hour later, where I am found dismantling an old electronic board from I don't even know what. It had a toggle switch rated for 3 amps, good enough for me. Here's a recreation of the state of the bot at the end of this. Sorry about this taking so much time, I'm juggling cleaning and teaching my brothers about electronics as I build this. Its part of a larger team event so there are also numerous hours of discussion not mentioned here. ![finalv2.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--8b69cf2ed242e696763c0d22b8d1d48158aaa87a/finalv2.jpg)    
+
