@@ -85,8 +85,10 @@ This translated to snooping around for parts shortly after, which is a headache 
 
 ## 10/18/2025 12:55 PM - Onshape!!  
 
-I began my development by creating a d-shaft to Lego axel connection. My plan was to use bevel gears from a Lego kit to translate the motion from the motors 90 degrees. I swear that my sketches are valid, but it just don’t care.
-Motor Connection v1 (3 hours as I'm new to Onshape at this point): 
+I began my development by creating a d-shaft to Lego axel connection. My plan was to use bevel gears from a Lego kit to translate the motion from the motors 90 degrees. I swear that my sketches are valid, but it just don’t care. I listed everything out but hack club wants me to spit it up, so here we go!
+
+### Motor Connection v1 (3 hours as I'm new to Onshape at this point): 
+
 ![Screenshot 2025-10-13 at 6.07.49 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--24c9de1d54a2a27b6ffd93e1f533da183c0c86bc/Screenshot%202025-10-13%20at%206.07.49%E2%80%AFPM.png) 
   
 
