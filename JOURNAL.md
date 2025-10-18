@@ -119,3 +119,12 @@ Battery container v1- 4 hours, I made this when I originally leaned blender to t
 
   
 
+## 10/18/2025 1:21 PM - Da Vinci v. Me / Praying for an X1  
+
+The printer broke like 4 times, at this point, and I tried to fix the sucker for over 2 days. (not included here for obvious reasons.) (da Vinci Jr. XYZ printer from the Cretaceous) Off to the library to use their X1.  (Just to let you know, it printed like a charm.) Everything went smoothly.  
+Here’s what it's supposed to look like:  
+![Jr_right_22-3170513839.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzAxMiwicHVyIjoiYmxvYl9pZCJ9fQ==--16638b3b4ae18545cf78bee7c425cd92189b83a4/Jr_right_22-3170513839.png)
+And mine:
+![IMG_3698.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzAyMiwicHVyIjoiYmxvYl9pZCJ9fQ==--d19f43d6fa24be99fa415790acf7da83a79859b6/IMG_3698.jpeg)
+  
+
