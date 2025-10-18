@@ -109,3 +109,7 @@ I continued to work on fleshing out this idea. I was gaining traction on how to 
 4 hours again, multiple axis and offsets are hard for beginning users. I come from a background of blender and animation models, not CAD beyond Tinkercad. I used to build my projects purely off of blender and other files, but that is just impossible for me sometimes.  
 ![Screenshot 2025-10-13 at 6.09.27 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEwMywicHVyIjoiYmxvYl9pZCJ9fQ==--5ce81054dadda8320fc72e035bf6d243b317185d/Screenshot%202025-10-13%20at%206.09.27%E2%80%AFPM.png) ![IMG\_3683.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEyMywicHVyIjoiYmxvYl9pZCJ9fQ==--480caa27d4988a4a23c7533696b3ccac98b95e12/IMG\_3683.jpeg)   
 
+## 10/18/2025 1:02 PM - Hardware  
+
+The gearbox took some hardware too. Most of this was scavenged from some old projects, skateboards, and even from an old 3d printer. These include bearings, some screws and the switch for the bot (not pictured.) This was a quick process all except for the hour and a half trip up to ace hardware form $6 of M2 screws. ![hardware.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEyMiwicHVyIjoiYmxvYl9pZCJ9fQ==--0b4a1ccde9e5e79489c5a384a6013749bf9a652e/hardware.jpeg)   
+
