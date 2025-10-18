@@ -165,3 +165,10 @@ Sorry for having to say this again, they just take _SEVERAL HOURS_ to assemble e
 ![Screenshot 2025-10-18 at 1.27.27 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzAyNywicHVyIjoiYmxvYl9pZCJ9fQ==--ea1c24f18d297cf4b47cc2c5465e70773a177ee7/Screenshot%202025-10-18%20at%201.27.27%E2%80%AFPM.png)
   
 
+## 10/18/2025 1:29 PM - OMG ITS PROGRAMMING, EVERYBODY RUN!!!  
+
+I normally love programming, but there's something about this particular project that just made it impossible. I don't know what was about these particular motor drivers, but I can't get them to even budge. Furthermore, I found a sneaky pin that I needed jumpers for, but even that didn't solve my problems. Sorry, no complete assembly because I dismantled it and want to save the recreation of it for my next post. This took the \*\*majority of my time this week\*\*, even during school, where I wrote potential interactions that I only hoped would work. Well, that was awful. I'd just sunk a whole week and a half into this thing, and I'm stumped. No Fires this time (1 nature — 1 me).  
+Here’s a photo of the madness at this time:
+![banner.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzAyOSwicHVyIjoiYmxvYl9pZCJ9fQ==--f532a38be9ed0b7809040341ed86a74c5c36278e/banner.jpeg)
+  
+
