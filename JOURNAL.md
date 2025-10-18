@@ -92,3 +92,11 @@ I began my development by creating a d-shaft to Lego axel connection. My plan wa
 ![Screenshot 2025-10-13 at 6.07.49 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--24c9de1d54a2a27b6ffd93e1f533da183c0c86bc/Screenshot%202025-10-13%20at%206.07.49%E2%80%AFPM.png) 
   
 
+## 10/18/2025 1 PM - Continued development  
+
+### Axel v1: 
+
+I continued uncovering how to use Onshape and came up with this design. When I first made it, I don’t know how I missed the glaring issue that the axle is so thin. This was updated in a later revision, but _still_. Additionally, this revision relied only on one bearing, something that I still don’t believe that I did.  
+![Screenshot 2025-10-13 at 6.09.04 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEwMiwicHVyIjoiYmxvYl9pZCJ9fQ==--eb67e40276f8980f2d921a971508730a8ad00375/Screenshot%202025-10-13%20at%206.09.04%E2%80%AFPM.png) 
+  
+
