@@ -155,3 +155,13 @@ The battery pack that was initially made was too small for the pack once I actua
 
 Before, I didn't have any way for the car to drag itself along. This butt component allows me to add a Lego wheel and a few bearings to let the car glide seamlessly over the floor. I used layer designing for this, and it worked to an absolute charm, except for the fact that it was completely new to me and therefore took about 3 hours to perfect once I settled on an idea. ![Screenshot 2025-10-13 at 9.17.05 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEzNiwicHVyIjoiYmxvYl9pZCJ9fQ==--dc4cae53aba011ebaaffc77859b31968ff1cae2f/Screenshot%202025-10-13%20at%209.17.05%E2%80%AFPM.png)  
 
+## 10/18/2025 1:27 PM - Innovation - Fabrication. - 5 hrs  
+
+3D printing once again took a trip and soldering it a pain as always. I got the circuit back together, transferred bodies and put enough glue to make the gods envy it. To clear up any confusion between v3 and v4, v3 was when I added the bearing and nothing else. 4v came just after and was much more intense of a rebuild so that is what is here. 
+
+### Gearboxes are impossible! 
+
+Sorry for having to say this again, they just take _SEVERAL HOURS_ to assemble each and every time. I dislike this very much. 
+![Screenshot 2025-10-18 at 1.27.27 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzAyNywicHVyIjoiYmxvYl9pZCJ9fQ==--ea1c24f18d297cf4b47cc2c5465e70773a177ee7/Screenshot%202025-10-18%20at%201.27.27%E2%80%AFPM.png)
+  
+
