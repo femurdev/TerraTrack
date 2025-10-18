@@ -113,3 +113,9 @@ I continued to work on fleshing out this idea. I was gaining traction on how to 
 
 The gearbox took some hardware too. Most of this was scavenged from some old projects, skateboards, and even from an old 3d printer. These include bearings, some screws and the switch for the bot (not pictured.) This was a quick process all except for the hour and a half trip up to ace hardware form $6 of M2 screws. ![hardware.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEyMiwicHVyIjoiYmxvYl9pZCJ9fQ==--0b4a1ccde9e5e79489c5a384a6013749bf9a652e/hardware.jpeg)   
 
+## 10/18/2025 1:03 PM - Battery Pack  
+
+Battery container v1- 4 hours, I made this when I originally leaned blender to try it out, don't recommend for engineering models. I redesigned the model in Onshape after 4 hours of fooling around in blender. Keep in mind I still haven’t actually printed any of this.  ![battery2.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEyNywicHVyIjoiYmxvYl9pZCJ9fQ==--1da79a0cfe1e78294a5a38b3602fa22b90c7cde6/battery2.jpeg) ![battery1.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEyOCwicHVyIjoiYmxvYl9pZCJ9fQ==--9344d516bb8165549ce07e4c68c8ab4fa47640db/battery1.jpeg) 
+
+  
+
