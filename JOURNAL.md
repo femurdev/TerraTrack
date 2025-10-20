@@ -199,3 +199,9 @@ The thing started smoking as soon as I tuned it on, slowly at first, then plumin
 _Small issue:_ the components that burned out were the only steppers I had, which cost 60 dollars before tariffs but are now 120 dollars. I have a plan now to avoid this insane bill, but I still need the funding for this project. I have 2 motors that cost 40 dollars each and 2 drivers that sum to 40 dollars, about 120 in total. The new chassis requires a new roll of filament to make, but I got a spare. I'll leave you with this recreation: ![recreation.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjE0MywicHVyIjoiYmxvYl9pZCJ9fQ==--127a0d9994ebd72d4a93cb916e200d3cc7e1e544/recreation.jpeg)  
   
 
+## 10/19/2025 - Assembly  
+
+Created assembly and added it to repo. The parts are arranged correctly and everything is in place as it should be. I also downgraded this to a tier 3 project as per @CAN's feedback. I will cover the difference, as I was able to get this far without funding.
+![Screenshot 2025-10-19 at 9.33.32 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzYyMywicHVyIjoiYmxvYl9pZCJ9fQ==--76ea35f4d00af9f6b4e1429e4ff59a4cca59b7d3/Screenshot%202025-10-19%20at%209.33.32%E2%80%AFPM.png)
+  
+
