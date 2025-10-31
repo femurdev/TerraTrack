@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **TerraTrack**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/485).
-
-
 ## 10/16/2025 7:16 AM - Prototyping, routing, discovering, and lighting things fire.  
 
 ### Old Recount
@@ -203,5 +199,16 @@ _Small issue:_ the components that burned out were the only steppers I had, whic
 
 Created assembly and added it to repo. The parts are arranged correctly and everything is in place as it should be. I also downgraded this to a tier 3 project as per @CAN's feedback. I will cover the difference, as I was able to get this far without funding.
 ![Screenshot 2025-10-19 at 9.33.32 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzYyMywicHVyIjoiYmxvYl9pZCJ9fQ==--76ea35f4d00af9f6b4e1429e4ff59a4cca59b7d3/Screenshot%202025-10-19%20at%209.33.32%E2%80%AFPM.png)
+  
+
+## 10/31/2025 - Quick Update  
+
+Hey yall'
+
+School's going crazy before the end of the second marking period so there isn't much progress. Also, I need to wait for parts to ship. I bought my own parts from bane bot without the grant. Will see where this goes when I get the wheels. Spent about 30 minute pricing out wheels between last and this update from Bane Bot.
+
+P.S. I just discovered some really cool hardware for other projects, & ADHD is going to go crazy. Please pardon the excitement and delay. I'll get back on this after Nov 2nd when my stuff is due.
+
+![T61P-193BG__90399](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njk0NCwicHVyIjoiYmxvYl9pZCJ9fQ==--ad817cfdeaf2a75f5aa7cf72b76dc637341847c7/T61P-193BG__90399.jpg)
   
 
